@@ -96,12 +96,12 @@
 ### 🎓 TFG DAM - WauMatch
 Este es un proyecto de mi TFG de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Contribuí al desarrollo de la aplicación móvil **WauMatch**, una plataforma de conexión para amantes de los perros. Mi aporte fue muy variado, abarcando tanto el desarrollo de funcionalidades del **frontend** como del **backend**. A lo largo del proyecto, trabajé en diferentes módulos de la app, como la creación de perfiles, la implementación de filtros de búsqueda y la integración de la base de datos.
 
-> 🔗 **Repositorio**: [github.com/JavierLucasDavo/WauMatch](https://github.com/JavierLucasDavo/WauMatch)
+> 🔗 **Repositorio**: [github.com/JavierLucasDavo/WauMatch](https://github.com/alejandrosamalea/WauMatch)
 
 ### 🎓 TFG DAW - TFGPoke
 Este es un proyecto de mi TFG del año pasado en **Desarrollo de Aplicaciones Web (DAW)**. En este proyecto, desarrollé el juego en línea **TFGPoke**, inspirado en Pokémon. Mi contribución fue principalmente en el **frontend**, donde diseñé casi por completo la interfaz de usuario, implementando funcionalidades interactivas y dinámicas para una experiencia de juego más fluida. También ayudé con algunas funcionalidades del **backend** y la integración con la base de datos.
 
-> 🔗 **Repositorio**: [github.com/M3gaicm/TFGPoke](https://github.com/M3gaicm/TFGPoke)
+> 🔗 **Repositorio**: [github.com/M3gaicm/TFGPoke](https://github.com/alejandrosamalea/TFGPoke)
 
 ---
 ## 🏆 Trofeos del perfil
