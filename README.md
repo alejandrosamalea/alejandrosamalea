@@ -118,7 +118,6 @@ Este es un proyecto de mi TFG del año pasado en **Desarrollo de Aplicaciones We
 
 <div align="center">
 
-<a href="mailto:alejandro.ibanez.samalea@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/alejandro-samalea-2b7a66228"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
