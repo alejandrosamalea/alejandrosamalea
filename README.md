@@ -122,6 +122,8 @@ Este es el proyecto de mi portfolio web, desarrollado con tecnologías modernas 
 
 <div align="center">
 
-<a href="www.linkedin.com/in/alejandro-ibañez-samalea-2b7a66228"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alejandro-ibañez-samalea-2b7a66228">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
