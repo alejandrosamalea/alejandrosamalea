@@ -107,6 +107,7 @@ Este es un proyecto de mi TFG del año pasado en **Desarrollo de Aplicaciones We
 
 Este es el proyecto de mi portfolio web, desarrollado con tecnologías modernas y centrado en una experiencia de usuario limpia e interactiva. En él muestro mis proyectos, habilidades y experiencia profesional como desarrollador web y multiplataforma. Es una aplicación responsive, bien estructurada y en constante mejora.
 
+> 🔗 **Repositorio**: [github.com/alejandrosamalea/portfolio](https://github.com/alejandrosamalea/portfolio)
 ---
 ## 🏆 Trofeos del perfil
 
